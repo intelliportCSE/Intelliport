@@ -1,0 +1,9 @@
+Cython
+pylint
+six
+gitpython
+cython
+python-dotenv
+google-generativeai
+fastapi
+uvicorn[standard]
